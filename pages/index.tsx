@@ -109,7 +109,7 @@ const Home: NextPage = () => {
             <img
               className='w-3/5 md:w-4/5 mx-auto block md:hidden'
               src='features1.png'
-              alt='features_1'
+              alt='customization-widgets'
             />
             <div className='flex flex-col gap-4'>
               <h3 className='text-xl font-bold leading-relaxed'>
@@ -128,14 +128,14 @@ const Home: NextPage = () => {
             <img
               className='w-3/5 md:w-4/5 mx-auto hidden md:block'
               src='features1.png'
-              alt='features_1'
+              alt='easy-templates'
             />
           </div>
           <div className='grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-16 lg:gap-32 justify-center items-center mt-10'>
             <img
               className='w-3/5 md:w-4/5 mx-auto'
-              src='features1.png'
-              alt='features_1'
+              src='features2.png'
+              alt='easy-templates'
             />
             <div className='flex flex-col gap-4'>
               <h3 className='text-xl font-bold leading-relaxed'>
